@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hey there! 👋 I'm Krish<br><br>I'm a full-stack enthusiast and aspiring FAANG engineer 🚀, currently building AI-powered SaaS apps like **Confidence.AI**.  <br>Passionate about **web development, backend systems, and clever automation**, I love turning ideas into scalable code.  <br><br>💻 **Tech Stack:** Node.js | JavaScript | C++ | Firebase | React | Tailwind | Python  <br><br>🌱 Always learning, currently diving deep into **algorithms, system design, and AI/ML**.  <br><br>📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/krish-1114) <br>
+# Hey there! 👋 I'm Krish<br><br>I'm a full-stack enthusiast engineer 🚀,  <br>Passionate about **web development, backend systems, and clever automation**, I love turning ideas into scalable code.  <br><br>💻 **Tech Stack:** Node.js | JavaScript | C++ | Firebase | React | Tailwind | Python  <br><br>🌱 Always learning, currently diving deep into **algorithms, system design, and AI/ML**.  <br><br>📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/krish-1114) <br>
 
 
 ## 🌐 Socials:
